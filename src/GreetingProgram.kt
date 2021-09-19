@@ -5,6 +5,4 @@ fun main(){
 
     var msg = "Hello user, welcome to my program!"
     println(msg.replace("user","$name"))
-
-
 }
